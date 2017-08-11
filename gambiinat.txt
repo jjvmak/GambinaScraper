@@ -1,0 +1,335 @@
+FINLAND'S GAMBINA SITUATION 
+Alko Akaa Toijala 5
+Alko Alajärvi 11-15
+Alko Alavus keskusta 11-15
+Alko Alavus Tuuri 31-50
+Alko Asikkala Vääksy 11-15
+Alko Aura 21-30
+Alko Enontekiö Hetta 11-15
+Alko Espoo Espoon keskus Entresse 11-15
+Alko Espoo Espoonlahti Pikkulaiva 16-20
+Alko Espoo Kauklahti 16-20
+Alko Espoo Leppävaara Sello 31-50
+Alko Espoo Lähderanta 6-10
+Alko Espoo Mankkaa 11-15
+Alko Espoo Matinkylä Iso Omena 16-20
+Alko Espoo Niittykumpu 21-30
+Alko Espoo Olari Prisma 21-30
+Alko Espoo Tapiola Ainoa 6-10
+Alko Eura 11-15
+Alko Eurajoki 11-15
+Alko Forssa Kutomo 11-15
+Alko Forssa Prismakeskus 16-20
+Alko Haapajärvi 21-30
+Alko Haapavesi 16-20
+Alko Hamina 16-20
+Alko Hankasalmi 6-10
+Alko Hanko 11-15
+Alko Harjavalta 21-30
+Alko Hartola 11-15
+Alko Hausjärvi Oitti 11-15
+Alko Heinola Citymarket 21-30
+Alko Heinola keskusta 21-30
+Alko Heinävesi 6-10
+Alko Helsinki Arabianranta Arabia 16-20
+Alko Helsinki Bulevardi 6-10
+Alko Helsinki Hakaniemi Ympyrätalo 51-70
+Alko Helsinki Herttoniemi Megahertsi 21-30
+Alko Helsinki Itä-Pasila 31-50
+Alko Helsinki Itäkeskus Citymarket 16-20
+Alko Helsinki Itäkeskus Itis Stockmann 16-20
+Alko Helsinki Itäkeskus Prisma 16-20
+Alko Helsinki Kalasatama 11-15
+Alko Helsinki Kallio 51-70
+Alko Helsinki Kannelmäki Kaari 11-15
+Alko Helsinki keskusta Forum 31-50
+Alko Helsinki Konalan Portti 16-20
+Alko Helsinki Kontula 31-50
+Alko Helsinki Kruununhaka 21-30
+Alko Helsinki Käpylä 21-30
+Alko Helsinki Lauttasaari 21-30
+Alko Helsinki Malmi Nova 31-50
+Alko Helsinki Mellunmäki 16-20
+Alko Helsinki Munkkivuori 21-30
+Alko Helsinki Pakila 16-20
+Alko Helsinki Pikku Huopalahti 21-30
+Alko Helsinki Pitäjänmäki 51-70
+Alko Helsinki Ruoholahti 16-20
+Alko Helsinki Taivallahti 6-10
+Alko Helsinki Töölöntori 21-30
+Alko Helsinki Ullanlinna 6-10
+Alko Helsinki Viikki Prisma 31-50
+Alko Helsinki Vuosaari Columbus 21-30
+Alko Hollola Salpakangas 11-15
+Alko Huittinen 16-20
+Alko Hyrynsalmi 6-10
+Alko Hyvinkää Willa 21-30
+Alko Hämeenkyrö 11-15
+Alko Hämeenlinna Goodman 6-10
+Alko Hämeenlinna Hauho 6-10
+Alko Hämeenlinna Idänpää 11-15
+Alko Hämeenlinna Lammi 31-50
+Alko Hämeenlinna Tiiriö 21-30
+Alko Ii 16-20
+Alko Iisalmi 21-30
+Alko Iitti Kausala 11-15
+Alko Ikaalinen 21-30
+Alko Ilmajoki 6-10
+Alko Ilomantsi 16-20
+Alko Imatra Mansikkala 11-15
+Alko Imatra Vuoksenniska 11-15
+Alko Inari Ivalo 21-30
+Alko Inari Saariselkä 3
+Alko Janakkala Turenki 11-15
+Alko Joensuu Eno 16-20
+Alko Joensuu keskusta Sokos 21-30
+Alko Joensuu Käpykangas Prisma 21-30
+Alko Joensuu Pilkko Citymarket 11-15
+Alko Jomala Maxinge Center 11-15
+Alko Joutsa 11-15
+Alko Juuka 6-10
+Alko Juva 11-15
+Alko Jyväskylä Keljo Keljon kauppakeskus 21-30
+Alko Jyväskylä keskusta Sokos 21-30
+Alko Jyväskylä Palokka Prisma 6-10
+Alko Jyväskylä Seppälä Citymarket 21-30
+Alko Jyväskylä Tourula Minimani 21-30
+Alko Jyväskylä Vaajakoski 21-30
+Alko Jämsä 6-10
+Alko Järvenpää Citymarket 31-50
+Alko Järvenpää Prisma 21-30
+Alko Kaarina 16-20
+Alko Kaarina Piikkiö 31-50
+Alko Kaavi 6-10
+Alko Kajaani keskusta Citymarket 31-50
+Alko Kajaani Prisma 16-20
+Alko Kalajoki 6-10
+Alko Kangasala keskusta 16-20
+Alko Kangasala Prisma 16-20
+Alko Kangasniemi 11-15
+Alko Kankaanpää 16-20
+Alko Kannus 21-30
+Alko Karkkila 16-20
+Alko Kauhajoki 16-20
+Alko Kauhava Alahärmä 11-15
+Alko Kauhava keskusta 16-20
+Alko Kauniainen 11-15
+Alko Kaustinen 51-70
+Alko Kemi 21-30
+Alko Kemijärvi 16-20
+Alko Keminmaa 6-10
+Alko Kemiönsaari Dragsfjärd Taalintehdas 6-10
+Alko Kemiönsaari Kemiö 11-15
+Alko Kempele 11-15
+Alko Kerava Prisma 21-30
+Alko Keuruu 16-20
+Alko Kirkkonummi Munkinmäki Prisma 31-50
+Alko Kitee 6-10
+Alko Kittilä keskusta 16-20
+Alko Kittilä Levi 16-20
+Alko Kiuruvesi 11-15
+Alko Kokemäki 16-20
+Alko Kokkola keskusta K-Supermarket 21-30
+Alko Kokkola Kosila Prisma 21-30
+Alko Kolari Ylläs Äkäslompolo 2
+Alko Kotka Karhula Lidl 31-50
+Alko Kotka Pasaati 21-30
+Alko Kotka Sutela Prisma 21-30
+Alko Kouvola Inkeroinen 21-30
+Alko Kouvola keskusta 11-15
+Alko Kouvola Korjala Prisma 21-30
+Alko Kouvola Kuusankoski 21-30
+Alko Kouvola Tervaskangas 16-20
+Alko Kouvola Valkeala 11-15
+Alko Kristiinankaupunki 11-15
+Alko Kuhmo 16-20
+Alko Kuhmoinen 6-10
+Alko Kuopio Haapaniemi 16-20
+Alko Kuopio keskusta Sokos 31-50
+Alko Kuopio Matkus Shopping Center 6-10
+Alko Kuopio Nilsiä 6-10
+Alko Kuopio Petonen 31-50
+Alko Kuopio Päiväranta Citymarket 21-30
+Alko Kuopio Savilahti Prisma 6-10
+Alko Kurikka 6-10
+Alko Kurikka Jalasjärvi 21-30
+Alko Kuusamo keskusta 11-15
+Alko Kuusamo Ruka 5
+Alko Kyyjärvi 5
+Alko Kärkölä Järvelä 16-20
+Alko Kärsämäki 11-15
+Alko Lahti Holma 11-15
+Alko Lahti Karisma 6-10
+Alko Lahti Laune 21-30
+Alko Lahti Nastola Rakokivi 6-10
+Alko Lahti Renkomäki 6-10
+Alko Lahti Sokos 6-10
+Alko Lahti Syke 31-50
+Alko Laihia 11-15
+Alko Laitila 16-20
+Alko Lapinlahti 6-10
+Alko Lappajärvi 11-15
+Alko Lappeenranta Citymarket 16-20
+Alko Lappeenranta Joutseno 16-20
+Alko Lappeenranta keskusta Iso Kristiina 16-20
+Alko Lappeenranta Leiri Prisma 21-30
+Alko Lapua 21-30
+Alko Laukaa 11-15
+Alko Lempäälä Ideapark 6-10
+Alko Lempäälä keskusta 16-20
+Alko Leppävirta 16-20
+Alko Lieksa 21-30
+Alko Lieto 21-30
+Alko Liminka 16-20
+Alko Liperi 16-20
+Alko Lohja keskusta Lohjantähti 16-20
+Alko Lohja Ojamo 6-10
+Alko Loimaa 21-30
+Alko Loppi 21-30
+Alko Loviisa 16-20
+Alko Luumäki Taavetti 6-10
+Alko Merikarvia 11-15
+Alko Mikkeli Graani 11-15
+Alko Mikkeli keskusta Stella 31-50
+Alko Mikkeli Ristiina 11-15
+Alko Muhos 16-20
+Alko Muonio 1
+Alko Muurame 21-30
+Alko Mäntsälä 11-15
+Alko Mänttä 21-30
+Alko Mäntyharju 21-30
+Alko Naantali 16-20
+Alko Nivala 16-20
+Alko Nokia 21-30
+Alko Nurmes 21-30
+Alko Nurmijärvi Kirkonkylä 6-10
+Alko Nurmijärvi Klaukkala Citymarket 6-10
+Alko Närpiö 11-15
+Alko Orimattila 16-20
+Alko Orivesi 21-30
+Alko Oulainen 16-20
+Alko Oulu Haukipudas 21-30
+Alko Oulu Kaakkuri 31-50
+Alko Oulu Keskusta 21-30
+Alko Oulu Kiiminki 21-30
+Alko Oulu Limingantulli 21-30
+Alko Oulu Linnanmaa 16-20
+Alko Oulu Raksila 16-20
+Alko Oulu Välivainio 16-20
+Alko Outokumpu 21-30
+Alko Padasjoki 16-20
+Alko Paimio 21-30
+Alko Paltamo 11-15
+Alko Parainen keskusta 21-30
+Alko Parainen Nauvo 6-10
+Alko Parikkala 16-20
+Alko Parkano 16-20
+Alko Pello 16-20
+Alko Pertunmaa Kuortti 6-10
+Alko Pieksämäki 21-30
+Alko Pielavesi 11-15
+Alko Pietarsaari 21-30
+Alko Pihtipudas 21-30
+Alko Pirkkala keskusta 11-15
+Alko Pirkkala Partola 31-50
+Alko Pori Eteläväylä 21-30
+Alko Pori Itäkeskus Prisma 11-15
+Alko Pori keskusta Sokos 31-50
+Alko Pori Noormarkku 16-20
+Alko Pori Puuvilla 21-30
+Alko Porvoo Näsi 6-10
+Alko Porvoo Tarmola 11-15
+Alko Pudasjärvi 21-30
+Alko Pulkkila 16-20
+Alko Puolanka 16-20
+Alko Puumala 16-20
+Alko Pyhäjärvi 11-15
+Alko Raahe 31-50
+Alko Raasepori Karjaa 16-20
+Alko Raasepori Tammisaari 11-15
+Alko Raisio keskusta 31-50
+Alko Raisio Mylly 11-15
+Alko Rantasalmi 2
+Alko Ranua 11-15
+Alko Rauma keskusta 16-20
+Alko Rauma Äyhö 21-30
+Alko Riihimäki Atomikortteli 21-30
+Alko Riihimäki Merkos 11-15
+Alko Rovaniemi Eteläkeskus 11-15
+Alko Rovaniemi keskusta 21-30
+Alko Rovaniemi Saarenkylä 21-30
+Alko Ruovesi 21-30
+Alko Saarijärvi 31-50
+Alko Salla 11-15
+Alko Salo Halikko 11-15
+Alko Salo Keskusta 21-30
+Alko Salo Perniö 16-20
+Alko Sastamala Vammala 31-50
+Alko Savitaipale 11-15
+Alko Savonlinna Kerimäki 31-50
+Alko Savonlinna keskusta 16-20
+Alko Savonlinna Nojanmaa Prisma 21-30
+Alko Seinäjoki keskusta K-Supermarket 31-50
+Alko Seinäjoki Nurmo Prisma 16-20
+Alko Seinäjoki Pohja Minimani 16-20
+Alko Siilinjärvi 11-15
+Alko Sipoo Nikkilä 6-10
+Alko Sipoo Söderkulla 11-15
+Alko Sodankylä 6-10
+Alko Somero 11-15
+Alko Sotkamo 21-30
+Alko Suomussalmi 31-50
+Alko Suonenjoki 16-20
+Alko Sysmä 31-50
+Alko Säkylä 6-10
+Alko Taivalkoski 11-15
+Alko Tampere Hervanta Duo 21-30
+Alko Tampere Kaleva Prisma 21-30
+Alko Tampere Koivistonkylä Prisma 11-15
+Alko Tampere Lielahti Citymarket 21-30
+Alko Tampere Linnainmaa Prisma 16-20
+Alko Tampere Puutarhakatu 21-30
+Alko Tampere Sokos 16-20
+Alko Tampere Stockmann 21-30
+Alko Tampere Tammela 6-10
+Alko Tampere Turtola Citymarket 21-30
+Alko Teuva 16-20
+Alko Tornio 11-15
+Alko Turku Hirvensalo 11-15
+Alko Turku Itäharju 21-30
+Alko Turku keskusta Wiklund 31-50
+Alko Turku Kupittaa 16-20
+Alko Turku Länsikeskus Citymarket 31-50
+Alko Turku Manhattan 31-50
+Alko Turku Skanssi 11-15
+Alko Turku Tampereentie 21-30
+Alko Tuusula Hyrylä 21-30
+Alko Ulvila 16-20
+Alko Urjala 6-10
+Alko Utsjoki Karigasniemi 5
+Alko Utsjoki Nuorgam 1
+Alko Uusikaarlepyy 11-15
+Alko Uusikaupunki 16-20
+Alko Vaala 16-20
+Alko Vaasa Asevelikylä Prisma 16-20
+Alko Vaasa keskusta Citymarket 11-15
+Alko Vaasa Kivihaka Citymarket 11-15
+Alko Valkeakoski 11-15
+Alko Vantaa Hämeenkylä 11-15
+Alko Vantaa Koivukylä Citymarket 21-30
+Alko Vantaa Korso 16-20
+Alko Vantaa Myyrmäki Myyrmanni 21-30
+Alko Vantaa Pakkala Jumbo 16-20
+Alko Vantaa Tammisto Citymarket 21-30
+Alko Vantaa Tikkurila 21-30
+Alko Varkaus 11-15
+Alko Vihti Nummela Citymarket 6-10
+Alko Viitasaari 11-15
+Alko Virolahti 31-50
+Alko Virrat 11-15
+Alko Ylitornio 16-20
+Alko Ylivieska 21-30
+Alko Ylöjärvi 16-20
+Alko Ähtäri 16-20
+Alko Äänekoski Hirvaskangas 11-15
+Alko Äänekoski keskusta 6-10
